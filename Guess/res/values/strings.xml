@@ -12,5 +12,6 @@
     <string name="quickstartgame">快速开始游戏</string>    
     <string name="withshe">赶快和附近的那个她，组队开始猜答案吧</string>
     <string name="whthhe">成为万众瞩目的女神，组队开始猜答案吧</string>
-
+	<string name="male">男</string>
+	<string name="female">女</string>
 </resources>
